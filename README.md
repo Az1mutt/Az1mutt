@@ -10,6 +10,7 @@ I focus on turning data into practical systems, not just reports.
 
 - Data Analytics & BI
 - Data Engineering
+- Fabric & PySpark
 - PostgreSQL & Databases
 - AI systems & LLM applications
 - Automation & tooling
