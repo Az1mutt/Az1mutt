@@ -17,7 +17,7 @@ Outside work, I build end-to-end systems around **agent architecture, guarded au
 
 ## Featured projects
 
-### 🧠 [Personal AI Brain](https://github.com/Az1mutt/personal-ai-brain)
+### 🧠 [Personal AI Brain](https://github.com/igormego/personal-ai-brain)
 
 A local-first agent platform for coordinating projects, tools, and future autonomous workflows.
 
@@ -34,7 +34,7 @@ The current implementation includes:
 
 The architecture deliberately separates **reasoning capability from execution permission**. LLM planning and broader autonomy are introduced only after the underlying execution and policy boundaries are explicit and testable.
 
-### 🍳 [Recipe Intelligence System](https://github.com/Az1mutt/recipe-intelligence-system)
+### 🍳 [Recipe Intelligence System](https://github.com/igormego/recipe-intelligence-system)
 
 A PostgreSQL/Supabase data product for structured culinary knowledge, provenance, ingestion, classification, personal preference modeling, and future AI-assisted workflows.
 
@@ -44,7 +44,7 @@ Its guarded-agent design separates:
 
 The workflow uses evidence-backed claims, explicit escalation rules, idempotency, constrained write authority, and deterministic promotion after approval. A real creator-scale pilot was used to validate the role boundaries before broader automation.
 
-### 🏠 [Homelab Infrastructure](https://github.com/Az1mutt/homelab-infrastructure)
+### 🏠 [Homelab Infrastructure](https://github.com/igormego/homelab-infrastructure)
 
 A dedicated Ubuntu Server environment for self-hosting, infrastructure learning, and running personal engineering projects.
 
